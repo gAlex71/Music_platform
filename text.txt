@@ -1,0 +1,12 @@
+Backend:
+1)Проектирование бд
+2)ReatAPI на фреймворке Nest.js(npm i -g @nestjs/cli; nest new project-name)
+3)MongoDB(npm i @nestjs/mongoose mongoose)
+
+Frontend:
+1)TypeScript + React 
+2)Redux(npm i react-redux redux redux-thunk @types/react-redux next-redux-wrapper)
+3)Next js
+4)SEO
+5)Работа с аудио файлами
+6)Scss
